@@ -1,0 +1,11 @@
+{
+  "name": "breakpoints",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:seryozhabaleyko/breakpoints.git",
+  "author": "Sergey Baleyko <seryozha.baleyko@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
